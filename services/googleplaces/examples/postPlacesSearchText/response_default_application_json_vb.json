@@ -1,0 +1,1603 @@
+{
+    "places": [
+        {
+            "id": "ChIJnX3he5Rb04URGj5y6Vd2yCE",
+            "nationalPhoneNumber": "442 814 4368",
+            "formattedAddress": "Hidalgo 107, Centro, 76000 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "107",
+                    "shortText": "107",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Hidalgo",
+                    "shortText": "Hidalgo",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Centro",
+                    "shortText": "Centro",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76000",
+                    "shortText": "76000",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.5920891,
+                "longitude": -100.40015129999999
+            },
+            "displayName": {
+                "text": "Salvatore Ristorante Pizzeria Napoletana Contemporánea Horno a Leña."
+            }
+        },
+        {
+            "id": "ChIJfXQyMixb04URemd_N_iV1eM",
+            "nationalPhoneNumber": "442 300 1619",
+            "formattedAddress": "C. 5 de Mayo 100, La Santa Cruz, La Cruz, 76020 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "100",
+                    "shortText": "100",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Calle 5 de Mayo",
+                    "shortText": "C. 5 de Mayo",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "La Santa Cruz",
+                    "shortText": "La Santa Cruz",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "La Cruz",
+                    "shortText": "La Cruz",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76020",
+                    "shortText": "76020",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.5944347,
+                "longitude": -100.38623779999999
+            },
+            "websiteUri": "https://www.facebook.com/lapiccolaitaliaqueretaro/",
+            "displayName": {
+                "text": "La Piccola Italia"
+            }
+        },
+        {
+            "id": "ChIJb8uQny1b04URdQ24cHK5xIQ",
+            "nationalPhoneNumber": "442 212 5117",
+            "formattedAddress": "Manuel Gutiérrez Nájera Sur 46, La Santa Cruz, Centro, 76000 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "Sur 46",
+                    "shortText": "Sur 46",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Manuel Gutiérrez Nájera",
+                    "shortText": "Manuel Gutiérrez Nájera",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "La Santa Cruz",
+                    "shortText": "La Santa Cruz",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Centro",
+                    "shortText": "Centro",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76000",
+                    "shortText": "76000",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.5925644,
+                "longitude": -100.3848865
+            },
+            "websiteUri": "https://instagram.com/comedor_panico?igshid=YmMyMTA2M2Y=",
+            "displayName": {
+                "text": "Comedor Panico"
+            }
+        },
+        {
+            "id": "ChIJj62zN9Fa04URCEQxS3WO9Cg",
+            "nationalPhoneNumber": "442 342 3468",
+            "formattedAddress": "Avenida Universidad 131, Centro, 76000 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "131",
+                    "shortText": "131",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Avenida Universidad",
+                    "shortText": "Avenida Universidad",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Centro",
+                    "shortText": "Centro",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76000",
+                    "shortText": "76000",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.595928699999998,
+                "longitude": -100.40080209999999
+            },
+            "websiteUri": "https://www.facebook.com/Crecola.Queretaro/",
+            "displayName": {
+                "text": "Crécola"
+            }
+        },
+        {
+            "id": "ChIJMbbPbpxF04URTzXgDd4d2P4",
+            "nationalPhoneNumber": "442 904 6161",
+            "formattedAddress": "Hacienda Santillán 123-local 105, El Jacal, 76186 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "local 105",
+                    "shortText": "local 105",
+                    "types": [
+                        "subpremise"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "123",
+                    "shortText": "123",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Hacienda Santillán",
+                    "shortText": "Hda. Santillan",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "El Jacal",
+                    "shortText": "El Jacal",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76186",
+                    "shortText": "76186",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.567407499999998,
+                "longitude": -100.41321599999999
+            },
+            "displayName": {
+                "text": "L'Osteria Di Orvieto"
+            }
+        },
+        {
+            "id": "ChIJSWPqfXlc04URDzfr6enAA8M",
+            "nationalPhoneNumber": "442 278 4281",
+            "formattedAddress": "Anillo Vial Fray Junípero Serra 9500-local 10, El Refugio, 76160 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "local 10",
+                    "shortText": "local 10",
+                    "types": [
+                        "subpremise"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "9500",
+                    "shortText": "9500",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Anillo Vial Fray Junípero Serra",
+                    "shortText": "Anillo Vial Fray Junípero Serra",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "El Refugio",
+                    "shortText": "El Refugio",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76160",
+                    "shortText": "76160",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.6472187,
+                "longitude": -100.34452879999999
+            },
+            "websiteUri": "http://www.pizzaalvolo.mx/",
+            "displayName": {
+                "text": "Pizzeria Al Volo"
+            }
+        },
+        {
+            "id": "ChIJOR--WIJF04URnoBoaV8xmAM",
+            "nationalPhoneNumber": "442 215 5269",
+            "formattedAddress": "Av Tecnológico 38-Local 4, Niños Heroes, 76010 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "Local 4",
+                    "shortText": "Local 4",
+                    "types": [
+                        "subpremise"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "38",
+                    "shortText": "38",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Avenida Tecnológico",
+                    "shortText": "Av Tecnológico",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Niños Heroes",
+                    "shortText": "Niños Heroes",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76010",
+                    "shortText": "76010",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.5855443,
+                "longitude": -100.403151
+            },
+            "displayName": {
+                "text": "Güero's Pizza"
+            }
+        },
+        {
+            "id": "ChIJi0Or7DBb04URDiRnCmRz6Vk",
+            "nationalPhoneNumber": "442 223 0996",
+            "formattedAddress": "Avenida Universidad 220, Villas del Oriente, 76020 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "220",
+                    "shortText": "220",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Avenida Universidad",
+                    "shortText": "Avenida Universidad",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Villas del Oriente",
+                    "shortText": "Villas del Oriente",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76020",
+                    "shortText": "76020",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.600367,
+                "longitude": -100.379809
+            },
+            "displayName": {
+                "text": "Il Diávolo"
+            }
+        },
+        {
+            "id": "ChIJ-86j4z1b04URNW4WuVnfvWU",
+            "nationalPhoneNumber": "442 224 0038",
+            "formattedAddress": "Balcones Vista Hermosa 2, Balcones Coloniales, 76020 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "2",
+                    "shortText": "2",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Balcones Vista Hermosa",
+                    "shortText": "Balcones Vista Hermosa",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Balcones Coloniales",
+                    "shortText": "Balcones Coloniales",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76020",
+                    "shortText": "76020",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.6125043,
+                "longitude": -100.37842339999999
+            },
+            "displayName": {
+                "text": "Pizzas Corleone, S.A. De C.V."
+            }
+        },
+        {
+            "id": "ChIJHQzqMoRF04UR9779eF1nAVY",
+            "nationalPhoneNumber": "442 825 4263",
+            "formattedAddress": "Blvd. de las Américas 4-int F, Reforma Agraria 2da Secc, 76086 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "int F",
+                    "shortText": "int F",
+                    "types": [
+                        "subpremise"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "4",
+                    "shortText": "4",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Boulevard de las Américas",
+                    "shortText": "Blvd. de las Américas",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Reforma Agraria 2da Sección",
+                    "shortText": "Reforma Agraria 2da Secc",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76086",
+                    "shortText": "76086",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.5655947,
+                "longitude": -100.40100740000001
+            },
+            "displayName": {
+                "text": "La Pizzoleta (suc. Campestre Qro.)"
+            }
+        },
+        {
+            "id": "ChIJAyPYi9Va04URiIV-mkdBu-w",
+            "nationalPhoneNumber": "442 212 5577",
+            "formattedAddress": "Mariano Matamoros 10, Centro, 76000 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "10",
+                    "shortText": "10",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Mariano Matamoros",
+                    "shortText": "Mariano Matamoros",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Centro",
+                    "shortText": "Centro",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76000",
+                    "shortText": "76000",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.5930465,
+                "longitude": -100.3949117
+            },
+            "websiteUri": "http://www.trattoriadapulcinella.com/",
+            "displayName": {
+                "text": "TRATTORIA DA PULCINELLA CENTRO, QUERÉTARO."
+            }
+        },
+        {
+            "id": "ChIJSVq4f-tF04UREi4m8ClLQ_k",
+            "nationalPhoneNumber": "442 677 0650",
+            "formattedAddress": "Espacio 10101, Villas del Cimatario, Universo 2000, 76085 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "10101",
+                    "shortText": "10101",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Espacio",
+                    "shortText": "Espacio",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Villas del Cimatario",
+                    "shortText": "Villas del Cimatario",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Universo 2000",
+                    "shortText": "Universo 2000",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76085",
+                    "shortText": "76085",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.5514546,
+                "longitude": -100.38310849999999
+            },
+            "displayName": {
+                "text": "Black Pizza"
+            }
+        },
+        {
+            "id": "ChIJefo2UShb04URy_tX2e4OvQQ",
+            "nationalPhoneNumber": "442 118 8496",
+            "formattedAddress": "C/ 15 de Mayo 24, Centro, 76000 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "24",
+                    "shortText": "24",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Calle 15 de Mayo",
+                    "shortText": "C/ 15 de Mayo",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Centro",
+                    "shortText": "Centro",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76000",
+                    "shortText": "76000",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.596633999999998,
+                "longitude": -100.392488
+            },
+            "websiteUri": "https://www.instagram.com/gustomioqro/",
+            "displayName": {
+                "text": "Gusto Mio Trattoria Toscana"
+            }
+        },
+        {
+            "id": "ChIJr0SIWzhF04URcOLv8Fx-Zx8",
+            "nationalPhoneNumber": "442 215 2838",
+            "formattedAddress": "Prol. Av. Zaragoza 304, Jardines de la Hacienda, 76180 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "304",
+                    "shortText": "304",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Prolongación Avenida Zaragoza",
+                    "shortText": "Prol. Av. Zaragoza",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Jardines de la Hacienda",
+                    "shortText": "Jardines de la Hacienda",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76180",
+                    "shortText": "76180",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.5733662,
+                "longitude": -100.4155339
+            },
+            "displayName": {
+                "text": "Boyo's Pizza Jardines"
+            }
+        },
+        {
+            "id": "ChIJaRUthDBb04UR6a5SLTluKJQ",
+            "nationalPhoneNumber": "442 537 7452",
+            "formattedAddress": "Av Circunvalación 46, La Santa Cruz, Centro, 76020 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "46",
+                    "shortText": "46",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Avenida Circunvalación",
+                    "shortText": "Av Circunvalación",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "La Santa Cruz",
+                    "shortText": "La Santa Cruz",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Centro",
+                    "shortText": "Centro",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76020",
+                    "shortText": "76020",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.594019499999998,
+                "longitude": -100.38028639999999
+            },
+            "displayName": {
+                "text": "Sinatra Pizzería"
+            }
+        },
+        {
+            "id": "ChIJLZwEvStb04URPc1e9yIBv5c",
+            "nationalPhoneNumber": "442 214 1273",
+            "formattedAddress": "C. 5 de Mayo 12, Centro, 76000 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "12",
+                    "shortText": "12",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Calle 5 de Mayo",
+                    "shortText": "C. 5 de Mayo",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Centro",
+                    "shortText": "Centro",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76000",
+                    "shortText": "76000",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.593015299999998,
+                "longitude": -100.39062589999999
+            },
+            "websiteUri": "http://www.divino.com.mx/",
+            "displayName": {
+                "text": "Di Vino Italian Restaurant"
+            }
+        },
+        {
+            "id": "ChIJs3tGy3hb04URWcNJRt3uvco",
+            "nationalPhoneNumber": "442 547 1142",
+            "formattedAddress": "Av. Universidad 96A Ote, Avenida Universidad, Col: Centro, 76000 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "Av. Universidad 96A Ote",
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Avenida Universidad",
+                    "shortText": "Avenida Universidad",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Col: Centro",
+                    "shortText": "Col: Centro",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76000",
+                    "shortText": "76000",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.598291099999997,
+                "longitude": -100.3897722
+            },
+            "websiteUri": "https://facebook.com/pg/siniestropizza/",
+            "displayName": {
+                "text": "Siniestro Pizza & Pociones ️"
+            }
+        },
+        {
+            "id": "ChIJEQqPZOVa04URVc8jIaoruKQ",
+            "nationalPhoneNumber": "442 246 3141",
+            "formattedAddress": "Av. Pie de la Cuesta 512-Loc. B, Lomas de San Pablo, 76125 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "Loc. B",
+                    "shortText": "Loc. B",
+                    "types": [
+                        "subpremise"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "512",
+                    "shortText": "512",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Avenida Pie de la Cuesta",
+                    "shortText": "Av. Pie de la Cuesta",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Lomas de San Pablo",
+                    "shortText": "Lomas de San Pablo",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76125",
+                    "shortText": "76125",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.6216157,
+                "longitude": -100.4054853
+            },
+            "websiteUri": "http://littlecaesars.com.mx/",
+            "displayName": {
+                "text": "Little Caesars Pie de la Cuesta"
+            }
+        },
+        {
+            "id": "ChIJn6_IFDJb04URxkiE8-jr0qA",
+            "nationalPhoneNumber": "442 458 6100",
+            "formattedAddress": "Av Paseo de la Reforma 231-Interior 101, El Campanario, 76146 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "Interior 101",
+                    "shortText": "Interior 101",
+                    "types": [
+                        "subpremise"
+                    ],
+                    "languageCode": "en"
+                },
+                {
+                    "longText": "231",
+                    "shortText": "231",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Avenida Paseo de la Reforma",
+                    "shortText": "Av Paseo de la Reforma",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "El Campanario",
+                    "shortText": "El Campanario",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76146",
+                    "shortText": "76146",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.6111354,
+                "longitude": -100.3609924
+            },
+            "websiteUri": "https://www.instagram.com/pizzeriadediego/?hl=es",
+            "displayName": {
+                "text": "Pizzería de Diego | Lomas del Marqués"
+            }
+        },
+        {
+            "id": "ChIJwYpoCZNE04URwOHdHoG8xyE",
+            "nationalPhoneNumber": "442 295 0430",
+            "formattedAddress": "Av. del Parque 810, zona dos extendida, Vista Alegre, 76074 Santiago de Querétaro, Qro., México",
+            "addressComponents": [
+                {
+                    "longText": "810",
+                    "shortText": "810",
+                    "types": [
+                        "street_number"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Avenida del Parque",
+                    "shortText": "Av. del Parque",
+                    "types": [
+                        "route"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "zona dos extendida",
+                    "shortText": "zona dos extendida",
+                    "types": [
+                        "neighborhood",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Vista Alegre",
+                    "shortText": "Vista Alegre",
+                    "types": [
+                        "sublocality_level_1",
+                        "sublocality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Santiago de Querétaro",
+                    "shortText": "Santiago de Querétaro",
+                    "types": [
+                        "locality",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "Querétaro",
+                    "shortText": "Qro.",
+                    "types": [
+                        "administrative_area_level_1",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "México",
+                    "shortText": "MX",
+                    "types": [
+                        "country",
+                        "political"
+                    ],
+                    "languageCode": "es"
+                },
+                {
+                    "longText": "76074",
+                    "shortText": "76074",
+                    "types": [
+                        "postal_code"
+                    ],
+                    "languageCode": "es"
+                }
+            ],
+            "location": {
+                "latitude": 20.5623675,
+                "longitude": -100.3752841
+            },
+            "displayName": {
+                "text": "PIU Pizza Artesanal Av. del Parque"
+            }
+        }
+    ],
+    "nextPageToken": "ATKogpeZX5YWpJHLjpr_y981phsTYRr_oQe8bOrzhYdXrsECMn4uBhzKYD9W6OYJB2_0z2WXI1keMmBZrn7CadSRptlYbZniaHu7ibUYbBToYEdzMtWnznNxfNOhnc7PmqtodyPssrE9Dy77dR6lt8sMzJ1lCN-Mfwb3UEzVrvEY2illpZ-g0ze51ScxYlwz7mgPLzyCqBEGdp3sOSglSbGKZBXqvoVm3Zs1ymTN1gLQs__OHJQPvGU7bE5gW_oEbCT3LC-pl7BkVxTKC9EJUGuWw2or-iQ_m05r-w9cKoWN9OayXMEsFLiw-_Mm8sEgSf8u6-xxBOD6bsHx0pXwFWdAiA0hL7QvWx54fBn0OJlWPXNFDEOpqsNXuJ5Xe63TtTw0KT8IAsydqP4JiMHGKYW9qO0YGgyuVtb55q9d96XmOxt2pYlvHtEJSAf5fK-yJYsHdao4GuIoOf9aE5Hg-sMtiC4onvfsGvhSRMh52c9iE2oJH9k_gO8qT59syfj79gAHCBSv2ZbLYnRwvENIwD2BID_RTQzrZO8VKiAEluJtdbU9o0cJ3_67gRRsdWHKENxo2F-jxGQ3qJnqDUoUTxsJz03cORimqZVLnIWoysBeDXh39i7IiDe317aY_L2XIDxtwrXREogvOQCChf2PcFAbenFIimmrckXGL72vNGJPemXcSGa4f1RzSYzVCkKXs94o21F6bCd7OgurwxCGQrUmHSNS0Fj6VD888QYTD4oFDssJUwVyGcg8DI49sj1d2-IIMVLhDW8J2gFJobzlRFSayyS3VfeNFLwludP8h0e-qJijGGbkjFGKnGYeAqzgPU2VJbwuF1T6NTyp"
+}

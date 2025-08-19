@@ -1,0 +1,152 @@
+{
+
+  "title": "",
+  "description": "",
+  "variables": {
+
+    "mapCenter": {
+      "type": {
+        "lat": "number",
+        "lng": "number"
+      },
+      "defaultValue": {
+        "lng": -99.133178,
+        "lat": 19.43263
+      }
+    },
+    "nextPageToken": {
+      "type": "string"
+    },
+    "searchResultsADP": {
+      "type": "vb/ArrayDataProvider2",
+      "defaultValue": {
+        "itemType": "application:Place",
+        "keyAttributes": "id"
+      }
+    },
+    "searchSessionToken": {
+      "type": "string"
+    },
+    "searchText": {
+      "type": "string",
+      "defaultValue": ""
+    },
+    "selectedPlacesADP": {
+      "type": "vb/ArrayDataProvider2",
+      "defaultValue": {
+        "itemType": "application:Place",
+        "keyAttributes": "id"
+      }
+    }
+
+  },
+  "metadata": {},
+  "types": {
+  },
+  "chains": {},
+  "eventListeners": {
+    "comboBoxSearchClick": {
+      "chains": [
+        {
+          "chain": "startSearchSession"
+        }
+      ]
+    },
+    "debouncedSearch": {
+      "chains": [
+        {
+          "chain": "getSuggestions",
+          "parameters": {
+            "value": "{{ $event.value }}"
+          }
+        }
+      ]
+    },
+    "inputSearchValueAction": {
+      "chains": [
+        {
+          "chain": "inputSearchValue",
+          "parameters": {
+            "rawValue": "{{ $event.detail.value }}"
+          }
+        }
+      ]
+    },
+    "removePlaceAction": {
+      "chains": [
+        {
+          "chain": "removePlace",
+          "parameters": {
+            "key": "{{ $current.key }}",
+            "index": "{{ $current.index }}",
+            "current": "{{ $current }}"
+          }
+        }
+      ]
+    },
+    "clearSearchAction": {
+      "chains": [
+        {
+          "chain": "clearSearch"
+        }
+      ]
+    },
+    "selectPlaceAction": {
+      "chains": [
+        {
+          "chain": "selectPlace",
+          "parameters": {
+            "key": "{{ $current.key }}",
+            "index": "{{ $current.index }}",
+            "current": "{{ $current }}"
+          }
+        }
+      ]
+    },
+    "vbEnter": {
+      "chains": [
+        {
+          "parameters": {},
+          "chain": "loadGoogleMap"
+        }
+      ]
+    }
+
+  },
+  "imports": {
+    "components": {
+      "oj-button": {
+        "path": "ojs/ojbutton"
+      },
+      "oj-combobox-one": {
+        "path": "ojs/ojselectcombobox"
+      },
+      "oj-list-item-layout": {
+        "path": "ojs/ojlistitemlayout"
+      },
+      "oj-list-view": {
+        "path": "ojs/ojlistview"
+      },
+      "oj-option": {
+        "path": "ojs/ojoption"
+      },
+      "oj-tab-bar": {
+        "path": "ojs/ojnavigationlist"
+      }
+
+    },
+    "css": [
+      "/resources/css/main.css"
+    ],
+    "modules": {}
+  },
+  "constants": {
+  },
+  "events": {
+    "debouncedSearch": {
+      "payloadType": {
+        "value": "string"
+      }
+    }
+  }
+}

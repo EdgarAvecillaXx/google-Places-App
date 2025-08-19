@@ -1,0 +1,29 @@
+{
+    "paths": {
+        "exclude": [
+            "build/**",
+            "docs/**",
+            "scripts/**",
+            "tests/**",
+            "**/private",
+            "+(web|mobile)Apps/**/resources/components/**/lib/*"
+        ]
+    },
+    "rules": {
+        "csp-html-script-unsafe-inline": {
+            "description": "CSP-1020:<br>Inline script blocks are considered to be CSP violation. The general solution is to use hashes or a nonce to allow inline scripts to run.<p>CSP-1021:<br>The execution of a JS event handler from inline HTML markup is a CSP violation. e.g. onclick onload onmouseover onsubmit, etc.<p>The general solution is to use <b>addEventListener()</b>. e.g.<p> &nbsp; &nbsp; <b>&lt;button id=\"btn\" <b>onclick='doSomething()'&gt;</b><p>can be replaced with<p> &nbsp; &nbsp; document.getElementById(\"btn\")<b>.addEventListener('click', doSomething)</b>",
+            "enabled": false
+        },
+        "oj-html-attr-prefix-expr": {
+            "description": "Colon-prefixed attribute should specify a '[[...]]' or '{{...}}' expression.",
+            "enabled": false
+        },
+        "eslint.no-bitwise": {
+            "enabled": false
+        },
+        "translations.audit.propertyNotTranslated": {
+            "enabled": false
+        }
+    },
+    "auditors": {}
+}

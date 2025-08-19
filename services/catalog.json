@@ -1,0 +1,32 @@
+{
+    "backends": {
+        "GooglePlaces": {
+            "description": "Google Places API",
+            "headers": {
+                "X-Goog-Api-Key": "AIzaSyAan0PowcIbjVbnedTnKcBTKxoH696_7Ek"
+            },
+            "servers": [
+                {
+                    "url": "https://places.googleapis.com/v1",
+                    "description": "Google Places API Service",
+                    "variables": {
+                        "searchText": {
+                            "default": "searchText",
+                            "enum": [
+                                "searchNearby",
+                                "searchText",
+                                "autocomplete"
+                            ]
+                        }
+                    },
+                    "x-vb": {
+
+                        "headers": {},
+                        "secureHeaders": {}
+                    }
+                }
+            ],
+            "secureHeaders": {}
+        }
+      }
+}

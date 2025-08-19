@@ -1,0 +1,74 @@
+<div class="oj-flex oj-sm-align-items-stretch dynamic-height-container">
+  <div class="oj-flex-item oj-sm-12 oj-md-4 oj-sm-padding-4x-end">
+    <oj-combobox-one id="combo-box-search" class="oj-sm-stretch"
+      label-hint="[[$application.translations.appBundle.combo_box_search_label_hint]]"
+      placeholder="[[$application.translations.appBundle.combo_box_search_placeholder]]"
+      options="[[ $variables.searchResultsADP ]]" value="{{ $variables.searchText }}"
+      on-raw-value-changed="[[$listeners.inputSearchValueAction]]" on-click="[[$listeners.comboBoxSearchClick]]">
+      <div slot="end">
+        <oj-bind-if test="[[ $variables.searchText ]]">
+          <oj-button chroming="borderless" class="" on-oj-action="[[$listeners.clearSearchAction]]" display="icons"
+            label="[[$application.translations.appBundle.button_label]]">
+            <span class="oj-ux-ico-close" slot="startIcon"></span>
+          </oj-button>
+        </oj-bind-if>
+        <oj-button label="[[$application.translations.appBundle.search_button_label]]" display="icons"
+          chroming="borderless">
+          <span class="oj-ux-ico-search" slot="startIcon"></span>
+        </oj-button>
+      </div>
+    </oj-combobox-one>
+
+    <hr class="oj-sm-margin-4x-vertical">
+
+    <h4>
+      <oj-bind-text value="[[$application.translations.appBundle.h4__text]]"></oj-bind-text>
+    </h4>
+    <oj-list-view id="search-results-list" class="oj-listview-card-layout scrollable-list"
+      data="[[ $page.variables.searchResultsADP ]]">
+      <template slot="itemTemplate" data-oj-as="item">
+        <div class="oj-flex oj-flex-items-pad">
+          <div class="oj-flex-item">
+            <strong><oj-bind-text value="[[$current.data.displayName.text]]"></oj-bind-text></strong>
+            <br>
+            <oj-bind-text value="[[$current.data.formattedAddress]]"></oj-bind-text>
+          </div>
+          <div class="oj-flex-item">
+            <oj-button display="icons" on-oj-action="[[$listeners.selectPlaceAction]]"
+              label="[[$application.translations.appBundle.button__text]]">
+              <span slot="startIcon" class="oj-ux-ico-plus"></span>
+            </oj-button>
+          </div>
+        </div>
+      </template>
+    </oj-list-view>
+
+    <hr class="oj-sm-margin-4x-vertical">
+
+    <h4>
+      Lugares Seleccionados
+      (<oj-bind-text value="[[ $page.variables.selectedPlacesADP?.data?.length]]"></oj-bind-text>/10)
+    </h4>
+    <oj-list-view id="selected-places-list" class="oj-listview-card-layout"
+      data="[[ $page.variables.selectedPlacesADP ]]">
+      <template slot="itemTemplate" data-oj-as="item">
+        <div class="oj-flex">
+          <div class="oj-flex-item">
+            <oj-bind-text value="[[ $current.data.displayName.text ]]"></oj-bind-text>
+          </div>
+          <div class="oj-flex-item">
+            <oj-button display="icons" on-oj-action="[[$listeners.removePlaceAction]]">
+              <span slot="startIcon" class="oj-ux-ico-trash"></span>
+              Quitar
+            </oj-button>
+          </div>
+        </div>
+      </template>
+    </oj-list-view>
+  </div>
+
+  <div class="oj-flex-item oj-sm-12 oj-md-8">
+    <div id="mapContainer" class="map-container">
+    </div>
+  </div>
+</div>

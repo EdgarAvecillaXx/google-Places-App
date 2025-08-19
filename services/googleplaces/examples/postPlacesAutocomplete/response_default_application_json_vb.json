@@ -1,0 +1,196 @@
+{
+    "suggestions": [
+        {
+            "placePrediction": {
+                "place": "places/ChIJ_QJSSfGAhYARQVFJBNKy3HE",
+                "placeId": "ChIJ_QJSSfGAhYARQVFJBNKy3HE",
+                "text": {
+                    "text": "Pizza By The Slice, Grant Avenue, San Francisco, California, EE. UU.",
+                    "matches": [
+                        {
+                            "endOffset": 5
+                        }
+                    ]
+                },
+                "structuredFormat": {
+                    "mainText": {
+                        "text": "Pizza By The Slice",
+                        "matches": [
+                            {
+                                "endOffset": 5
+                            }
+                        ]
+                    },
+                    "secondaryText": {
+                        "text": "Grant Avenue, San Francisco, California, EE. UU."
+                    }
+                },
+                "types": [
+                    "restaurant",
+                    "point_of_interest",
+                    "establishment",
+                    "food",
+                    "pizza_restaurant"
+                ]
+            }
+        },
+        {
+            "placePrediction": {
+                "place": "places/ChIJo0q8yIqAhYARIXgaZq3aKEA",
+                "placeId": "ChIJo0q8yIqAhYARIXgaZq3aKEA",
+                "text": {
+                    "text": "Tricolore Caffè & Pizzeria and Catering, Washington Street, San Francisco, California, EE. UU.",
+                    "matches": [
+                        {
+                            "endOffset": 39
+                        }
+                    ]
+                },
+                "structuredFormat": {
+                    "mainText": {
+                        "text": "Tricolore Caffè & Pizzeria and Catering",
+                        "matches": [
+                            {
+                                "endOffset": 39
+                            }
+                        ]
+                    },
+                    "secondaryText": {
+                        "text": "Washington Street, San Francisco, California, EE. UU."
+                    }
+                },
+                "types": [
+                    "store",
+                    "italian_restaurant",
+                    "food_store",
+                    "food",
+                    "catering_service",
+                    "event_venue",
+                    "meal_delivery",
+                    "meal_takeaway",
+                    "point_of_interest",
+                    "coffee_shop",
+                    "establishment",
+                    "food_delivery",
+                    "pizza_restaurant",
+                    "restaurant",
+                    "cafe"
+                ]
+            }
+        },
+        {
+            "placePrediction": {
+                "place": "places/ChIJ72jGSvCAhYARVn5P8a7fmXY",
+                "placeId": "ChIJ72jGSvCAhYARVn5P8a7fmXY",
+                "text": {
+                    "text": "Piazza Pellegrini, Columbus Avenue, San Francisco, California, EE. UU.",
+                    "matches": [
+                        {
+                            "endOffset": 17
+                        }
+                    ]
+                },
+                "structuredFormat": {
+                    "mainText": {
+                        "text": "Piazza Pellegrini",
+                        "matches": [
+                            {
+                                "endOffset": 17
+                            }
+                        ]
+                    },
+                    "secondaryText": {
+                        "text": "Columbus Avenue, San Francisco, California, EE. UU."
+                    }
+                },
+                "types": [
+                    "meal_takeaway",
+                    "establishment",
+                    "bar",
+                    "italian_restaurant",
+                    "food",
+                    "point_of_interest",
+                    "restaurant"
+                ]
+            }
+        },
+        {
+            "placePrediction": {
+                "place": "places/ChIJYdYrAeF9hYARXSv17bySojU",
+                "placeId": "ChIJYdYrAeF9hYARXSv17bySojU",
+                "text": {
+                    "text": "Pizzaiolo, Telegraph Avenue, Oakland, California, EE. UU.",
+                    "matches": [
+                        {
+                            "endOffset": 5
+                        }
+                    ]
+                },
+                "structuredFormat": {
+                    "mainText": {
+                        "text": "Pizzaiolo",
+                        "matches": [
+                            {
+                                "endOffset": 5
+                            }
+                        ]
+                    },
+                    "secondaryText": {
+                        "text": "Telegraph Avenue, Oakland, California, EE. UU."
+                    }
+                },
+                "types": [
+                    "liquor_store",
+                    "establishment",
+                    "food_store",
+                    "restaurant",
+                    "point_of_interest",
+                    "american_restaurant",
+                    "bar",
+                    "bakery",
+                    "italian_restaurant",
+                    "brunch_restaurant",
+                    "meal_takeaway",
+                    "store",
+                    "food"
+                ]
+            }
+        },
+        {
+            "placePrediction": {
+                "place": "places/ChIJmx3iW_GAhYARrlV9H2vyE-E",
+                "placeId": "ChIJmx3iW_GAhYARrlV9H2vyE-E",
+                "text": {
+                    "text": "Golden Boy Pizza, Green Street, San Francisco, California, EE. UU.",
+                    "matches": [
+                        {
+                            "startOffset": 11,
+                            "endOffset": 16
+                        }
+                    ]
+                },
+                "structuredFormat": {
+                    "mainText": {
+                        "text": "Golden Boy Pizza",
+                        "matches": [
+                            {
+                                "startOffset": 11,
+                                "endOffset": 16
+                            }
+                        ]
+                    },
+                    "secondaryText": {
+                        "text": "Green Street, San Francisco, California, EE. UU."
+                    }
+                },
+                "types": [
+                    "pizza_restaurant",
+                    "food",
+                    "establishment",
+                    "restaurant",
+                    "point_of_interest"
+                ]
+            }
+        }
+    ]
+}
